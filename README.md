@@ -1,2 +1,3 @@
 # Customer_Churn
-A project to predict customer churn
+A small project for putting Data Science and Deep Learning skills into practice
+A project to predict if customer churned
